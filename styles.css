@@ -357,7 +357,7 @@ small {
 .name {
   color: #30d9d3;
   text-transform: uppercase;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
   font-size: clamp(3rem, 5vw, 6rem);
 }
 
@@ -374,7 +374,7 @@ small {
 }
 
 .hero-btn-container {
-  margin-block-start: 5rem;
+  margin-block-start: 2rem;
   display: flex;
 }
 

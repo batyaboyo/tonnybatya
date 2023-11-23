@@ -1,11 +1,16 @@
 # tonnybatya
-TOPIC
+
+Link https://tonnybatya.vercel.app
+
+##TOPIC
 A personal portfolio website featuring my projects and blog articles.
 
-DESCRIPTION 
+##DESCRIPTION 
+
 The website will showcase my skills, projects, and experience, targeting potential clients or employers in the creative industry. 
 
-PROJECT PLAN
+##PROJECT PLAN
+
 This is a one-page personal portfolio site with home section, responsive navigation bar, project section, skills section, about me section, contact section and external Links to my personal social media profiles, projects and personal blog.
 
 The project includes selected content, simple and intuitive layout, implementing responsiveness using HTML, CSS and adding interactive features with JavaScript.
@@ -16,7 +21,8 @@ The timeline for the project will depend on its complexity and my availability.
 
 By following this plan, I aim to create a compelling online presence that effectively represents my abilities and stands out to potential opportunities.
 
-SEO STRATEGIES
+##SEO STRATEGIES
+
 Optimizing a website developed with HTML, CSS, and JavaScript for search engines involves implementing various strategies to improve its visibility and rankings in search engine results. Here are some key strategies i plan to employ:
 
 1. Keyword Research: Conduct thorough keyword research to identify relevant and high-impact keywords related to  industry, skills, and projects. Incorporating these keywords strategically throughout my website's content, including headings, page titles, meta descriptions, image alt tags, and within the body text.
