@@ -193,12 +193,12 @@ h3 {
 .subtitle {
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: clamp(1.5rem, 1vw, 1.35rem);
+  font-size: clamp(1.2rem, 1vw, 1.35rem);
   color: var(--accent-clr);
 }
 
 .title {
-  font-size: clamp(2.8rem, 3vw, 5rem);
+  font-size: clamp(2.5rem, 3vw, 5rem);
 }
 
 .info {
